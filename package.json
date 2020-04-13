@@ -1,0 +1,22 @@
+{
+  "name": "ecommerce",
+  "version": "1.0.0",
+  "description": "ecommerce automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KGLWS/EcommerceCypressIO.git"
+  },
+  "author": "EDDIE",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KGLWS/EcommerceCypressIO/issues"
+  },
+  "homepage": "https://github.com/KGLWS/EcommerceCypressIO#readme",
+  "devDependencies": {
+    "cypress": "^4.3.0"
+  }
+}
